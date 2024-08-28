@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = TranquilEase
+build_property.ProjectDir = C:\Users\Usuario\source\repos\TranquilEase\TranquilEase\
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/ChatComAIPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.ChatComAIPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ChatComAIPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ChatComAIPage.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/ComoSeSentePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.ComoSeSentePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ComoSeSentePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ComoSeSentePage.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/DesabafoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.DesabafoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DesabafoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DesabafoPage.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/PaginaDeCadastro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.PaginaDeCadastro.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PaginaDeCadastro.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PaginaDeCadastro.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/PaginaDeLogin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.PaginaDeLogin.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PaginaDeLogin.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PaginaDeLogin.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/PaginaEscolhaLoginCadastro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.PaginaEscolhaLoginCadastro.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PaginaEscolhaLoginCadastro.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PaginaEscolhaLoginCadastro.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/PerfilPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.PerfilPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PerfilPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PerfilPage.xaml
+
+[C:/Users/Usuario/source/repos/TranquilEase/TranquilEase/Views/SessoesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TranquilEase.Views.SessoesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SessoesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SessoesPage.xaml

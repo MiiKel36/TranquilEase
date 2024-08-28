@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TranquilEase.Views.ComoSeSentePage"
+             xmlns:local="clr-namespace:TranquilEase.Views"
+             Title="ComoSeSentePage">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout HeightRequest="60" BackgroundColor="#301D72" Padding="5" Margin="0,0,0,35">
+                <Label Text="teste" FontSize="25" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" x:Name="label_coco"/>
+            </StackLayout>
+
+            <StackLayout>
+                <Button Text="Historico de Emocões" 
+                        VerticalOptions="EndAndExpand"
+                        Clicked="ShowHistoricoDesabafos"/>
+            </StackLayout>
+
+            <!-- Parte de Emocao -->
+            <StackLayout 
+                IsVisible="true"
+                x:Name="StackFazerEmocao"
+                Orientation="Vertical">
+                <Label Text="What's your favorite animal?" />
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="1"
+                            Command="{Binding PegarSentimento1}"/>
+                    <Button Text="2"
+                            Command="{Binding PegarSentimento2}"/>
+                    <Button Text="3"
+                            Command="{Binding PegarSentimento3}"/>
+                    <Button Text="4"
+                            Command="{Binding PegarSentimento4}"/>
+                    <Button Text="5"
+                            Command="{Binding PegarSentimento5}"/>
+                    <Button Text="6"
+                            Command="{Binding PegarSentimento6}"/>
+                    <Button Text="7"
+                            Command="{Binding PegarSentimento7}"/>
+                </StackLayout>
+
+                <Entry Text="{Binding EmocaoText}" Placeholder="Como se sentiu hoje"/>
+                <Entry Text="{Binding FelizText}" Placeholder="O que te deixou feliz"/>
+                <Entry Text="{Binding TristeText}" Placeholder="O que te deixou triste"/>
+
+                <Button Text="Salvar" 
+                        Command="{Binding SalvarCommand}"/>
+
+                <Button Text="tirar cadastro"
+                        Clicked="Button_Clicked"/>
+            </StackLayout>
+
+            <!-- Historico de Emocao -->
+            <StackLayout
+                IsVisible="false"
+                x:Name="StackHistoricoEmocao"
+                Orientation="Vertical">
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
