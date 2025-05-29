@@ -1,4 +1,5 @@
 # Projeto TCC - TranquilEase
+<h2> Atenção, este é um projeto ANTIGO, e não esta equivalente com o meu conhecimento atual na área. </h2>
 
 Este é um aplicativo móvel desenvolvido para auxiliar pessoas que enfrentam dificuldades emocionais. O projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) de um amigo e tem como objetivo proporcionar suporte emocional através de diversas funcionalidades que ajudam a melhorar o bem-estar mental.
 
